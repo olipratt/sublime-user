@@ -1,0 +1,15 @@
+[
+    {
+        "keys": ["alt+m"],
+        "command": "markdown_preview",
+        "args": {"target": "browser", "parser":"markdown"}
+    },
+    {
+        "keys": ["shift+f12"],
+        "command": "jump_back"
+    },
+    {
+        "keys": ["alt+b"],
+        "command": "anaconda_run_project_tests"
+    },
+]
