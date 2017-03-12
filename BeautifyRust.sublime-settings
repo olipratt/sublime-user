@@ -1,0 +1,4 @@
+{
+  "rustfmt": "rustfmt.exe",
+  "run_on_save": false
+}

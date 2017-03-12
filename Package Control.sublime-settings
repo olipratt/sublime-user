@@ -6,15 +6,20 @@
 	"installed_packages":
 	[
 		"Anaconda",
-		"Better Build System",
+		"BeautifyRust",
 		"C Improved",
 		"DocBlockr",
-		"Git",
+		"Dockerfile Syntax Highlighting",
+		"GitSavvy",
 		"MagicPython",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Monokai Extended",
 		"Package Control",
+		"Python 3",
+		"Rust Enhanced",
+		"RustAutoComplete",
+		"Theme - amCoder",
 		"Theme - Soda"
 	]
 }
